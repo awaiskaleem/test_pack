@@ -2,7 +2,7 @@
 
 # Building packages and uploading them to a Gemfury repository
 
-GEMFURY_URL=https://Bf3eRLmssjSVyGWspuYF@pypi.fury.io/awaiskaleem/
+GEMFURY_URL=${PIP_EXTRA_INDEX_URL}
 
 set -e
 

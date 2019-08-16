@@ -1,4 +1,4 @@
---extra-index-url=https://Bf3eRLmssjSVyGWspuYF@pypi.fury.io/awaiskaleem/
+--extra-index-url=${PIP_EXTRA_INDEX_URL}
 
 # api
 flask==1.0.2
